@@ -90,4 +90,7 @@ public class Clock {
         }
         scanner.close();
     }
+    //The other print output for issue1
+    System.out.println("The other member needs to clone the remote source code to their local machine using the command: git clone [SSH/HTTPS Link]");
+    System.out.println("OR simply download the Zip File from gitHub");
 }
